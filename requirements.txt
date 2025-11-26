@@ -1,0 +1,34 @@
+# LangChain ecosystem
+langchain
+langchain-core
+langchain-openai
+langchain-anthropic
+langchain-google-genai
+langchain-huggingface
+
+# AI / LLM providers
+openai
+anthropic
+google-generativeai
+transformers
+huggingface-hub
+
+# Utilities & ML
+python-dotenv
+numpy
+scikit-learn
+
+# Frontend
+streamlit
+
+# Other dependencies
+requests
+tqdm
+pydantic
+
+# For local development
+pytest
+
+langgraph
+
+

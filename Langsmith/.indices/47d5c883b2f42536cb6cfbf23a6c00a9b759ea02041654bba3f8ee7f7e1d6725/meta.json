@@ -1,0 +1,6 @@
+{
+  "pdf_path": "F:\\LangGraph\\Langsmith\\Tech_Pack_W5YA1AWHFP2_WIDE_LEG_002 1.pdf",
+  "chunk_size": 1000,
+  "chunk_overlap": 150,
+  "embedding_model": "text-embedding-3-small"
+}
